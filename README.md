@@ -1,49 +1,45 @@
 # Actividad1Clase1
 
-Este es mi repositorio para la primera actividad de clase.
+Mi primer repositorio para practicar Git en clase.
 
-## Descripción
-Repositorio de GitHub para practicar con ramas y pull requests.
+## Sobre este proyecto
+Acá estoy aprendiendo a usar GitHub, crear ramas y hacer pull requests. Básicamente mi primer contacto serio con versionado.
 
-## Autor
-Franco Rossetti
+## Qué aprendí
+- Crear ramas desde main
+- Hacer commits sin que explote todo
+- Pushear a un repositorio remoto
+- Hacer pull requests y mergear cambios
+- Resolver conflictos (la mejor parte 😅)
 
-## Detalles
-- Rama principal: main
-- Primera práctica con modificaciones en ramas paralelas
+## Cómo usar este repo
+Si querés clonar esto:
 
-## Requisitos
-- Git
-- GitHub
+```bash
+git clone https://github.com/FrancoRossetti871/Actividad1Clase1.git
+cd Actividad1Clase1
+```
 
-## Instalación
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/FrancoRossetti871/Actividad1Clase1.git
-   ```
+Y listo, ya tenés una copia local.
 
-2. Navega a la carpeta del proyecto:
-   ```bash
-   cd Actividad1Clase1
-   ```
+## Ramas
+- `main` — donde está todo lo que funcionó
+- `mejoras-readme` — donde agregué más contenido
 
-## Uso
-Este repositorio es utilizado para aprender:
-- Creación de ramas
-- Realización de commits
-- Push y pull a repositorios remotos
-- Creación y merge de pull requests
+## Errores que cometí
+- Al principio inicialicé el repo en la carpeta de usuario (F)
+- Conflictos al hacer pull (aprendí a resolver)
+- Casi hago push a la rama equivocada
 
-## Estructura
-- `main` — Rama principal del proyecto
-- `mejoras-readme` — Rama de desarrollo con mejoras
+## Próximos pasos
+Para mejorar este repo necesito aprender más sobre:
+- .gitignore
+- Colaboración con otros
+- Workflows más complejos
 
-## Contribuciones
-Las contribuciones son bienvenidas. Por favor:
-1. Crea una rama desde `main`
-2. Realiza tus cambios
-3. Crea un pull request
+---
 
-## Licencia
-Este proyecto está abierto para fines educativos.
+**Autor:** Franco Rossetti  
+**Clase:** Actividad 1  
+**Fecha:** Abril 2026
 
